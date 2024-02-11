@@ -23,6 +23,13 @@
         <header>
             <!-- place navbar here -->
         </header>
+        <nav class="ben"><ul>
+            <li><a href="">選項1</a></li>
+            <li><a href="">選項2</a></li>
+            <li><a href="">選項3</a></li>
+            <li><a href="">選項4</a></li>
+            <li><a href="">選項5</a></li>
+        </ul></nav>
         <main></main>
         <footer>
             <!-- place footer here -->
