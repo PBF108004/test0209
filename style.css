@@ -5,3 +5,18 @@
     box-sizing: border-box;
     padding: 20px;
 }
+.ben  ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.ben ul li {
+    width: 100%;
+}
+.ben ul a {
+    color: #055c92;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
