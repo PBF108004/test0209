@@ -20,8 +20,8 @@
     </head>
 
     <body>
-        <header>
-            <!-- place navbar here -->
+        <header class="kc">
+            123<!-- place navbar here -->
         </header>
         <main></main>
         <footer>
